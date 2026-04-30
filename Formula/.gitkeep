@@ -1,0 +1,3 @@
+# Placeholder so the empty Formula/ directory is preserved in git
+# until GoReleaser drops in the first generated formula on the
+# upstream's first tagged release. Safe to delete after that.
