@@ -1,5 +1,7 @@
 # aforo-nextgen-homebrew-tap
 
+> **`loadgen` is not available here (2026-11-02).** Its releases are private, so `brew install` from this public tap failed. The formula is removed until the releases are public or the tap is private.
+
 Public Homebrew tap for [Aforo NextGen](https://github.com/aforoai)
 command-line tools.
 
